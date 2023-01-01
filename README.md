@@ -11,5 +11,5 @@ docker run -it \
 waterlemons2k/minecraft-bedrock-server
 ```
 Replace `/mc` with the Server's working directory
-# Stop the serverr
+# Stop the server
 Stop the server by typing `stop`
