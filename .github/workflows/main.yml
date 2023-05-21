@@ -9,6 +9,6 @@ jobs:
     with:
       tags: |
         waterlemons2k/minecraft-bedrock-server
-        waterlemons2k/minecraft-bedrock-server:1.19.51.01
+        waterlemons2k/minecraft-bedrock-server:1.19.83.01
     secrets:
       TOKEN: ${{ secrets.TOKEN }}

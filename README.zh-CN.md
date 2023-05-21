@@ -1,6 +1,6 @@
 # Docker-minecraft-bedrock-server
 [Minecraft 基岩版服务器](https://www.minecraft.net/zh-hans/download/server/bedrock) 的 Docker 镜像  
-版本：1.19.51.01
+版本：1.19.83.01
 
 [English](README.md) | 简体中文
 # 使用
